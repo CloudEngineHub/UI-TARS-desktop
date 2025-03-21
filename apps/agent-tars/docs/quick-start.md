@@ -8,6 +8,12 @@ This guide will walk you through the process of setting up your first Agent TARS
 
 Before you begin, you will need to set some necessary configuration.
 
+Enable the Accessibility permission of **Agent TARS** in MacOS:
+  - System Settings -> Privacy & Security -> **Accessibility**
+
+![accessibility-permission.png](https://github.com/user-attachments/assets/77e171d2-dffb-4905-98c0-92c5ab00e333)
+
+
 You can click the left-bottom button to open the configuration page:
 
 ![setting-icon.png](https://lf3-static.bytednsdoc.com/obj/eden-cn/uhbfnupenuhf/agent-tars/setting-icon.jpeg)
