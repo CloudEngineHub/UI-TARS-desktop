@@ -14,17 +14,31 @@
 > [!CAUTION]
 > **DISCLAIMER**: Agent TARS is still in **Technical Preview** stage and not stable yet. It's not recommended to use it in production.
 
+> [!TIP]
+> **Introduction Blog**: https://agent-tars.com/2025/03/18/announcing-agent-tars-app
+
 ## Showcases
 
 <video src="https://github.com/user-attachments/assets/5bfed86f-7201-4fe2-b33b-d93a591c35c8" autoplay loop muted></video>
 
+For more showcases please head: https://agent-tars.com/showcase
+
 ## ✨️ Features
 
 - **🌐 Advanced Browser Operations:** Executes sophisticated tasks like Deep Research and Operator functions through an agent framework, enabling comprehensive planning and execution.
-- **🛠️ Comprehensive Tool Support:** Integrates with search, file editing, command line, and Model Context Protocol (MCP) tools to handle complex workflows.
+- **🛠️ Comprehensive Tool Support:** Integrates with search, file editing, command line, and Model Context Protocol (**MCP**) tools to handle complex workflows.
 - **💻️ Enhanced Desktop App:** A revamped UI with displays for browsers, multimodal elements, session management, model configuration, dialogue flow visualization, and browser/search status tracking.
 - **🔄 Workflow Orchestration:** Seamlessly connects GUI Agent tools—search, browse, explore links, and synthesize information into final outputs.
 - **⚙️ Developer-Friendly Framework:** Simplifies integration with UI-TARS and custom workflow creation for GUI Agent projects.
+
+## Install
+
+You can download the [latest release](https://github.com/bytedance/UI-TARS-desktop/releases/latest) version of UI-TARS Desktop from our releases page.
+
+> **Note**: If you have [Homebrew](https://brew.sh/) installed, you can install UI-TARS Desktop by running the following command:
+> ```bash
+> brew install --cask agent-tars
+> ```
 
 ## Getting Started
 
